@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-vault",
+  "version": "1.0.0",
+  "description": "NodeJS Vault application - NEVER USE IT IN PRODUCTION ENVIRONMENTS",
+  "main": "vault.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vault",
+    "insecure"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mustache-express": "^1.2.8"
+  }
+}
