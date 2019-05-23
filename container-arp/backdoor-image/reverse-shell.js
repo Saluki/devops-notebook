@@ -6,7 +6,7 @@ const template = (stdout, stderr) => {
     <html>
         <head>
             <meta charset="utf-8">
-            <title>NodeJS Backdoor</title>
+            <title>Container Security - Backdoor CLI</title>
             <style>
                 body { background: #000000; color: #20C20E; }
                 .container {
@@ -73,7 +73,7 @@ $$$$"""$$$$$$$$$$uuu   uu$$$$$$$$$"""$$$"
                     </pre>
                 </div>
                 <div class="right-pane">
-                    <h2>NodeJS Backdoor</h2>
+                    <h2>Container Security - Backdoor CLI</h2>
                     <form method="GET">
                         <input type="text" class="command-input" name="command" placeholder="Command">
                         <input type="submit" value="EXECUTE IN CONTAINER">
